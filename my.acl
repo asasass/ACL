@@ -8,3 +8,10 @@
 [outbound_block_list]
 # 禁止访问列表
 (^|\.)googletagmanager\.com$
+(^|\.)clarity\.ms$
+(^|\.)t84c3srgclc9\.com$
+(^|\.)realsrv\.com$
+(^|\.)histats\.com$
+(^|\.)torrentkelly\.com$
+(^|\.)exdynsrv\.com$
+
